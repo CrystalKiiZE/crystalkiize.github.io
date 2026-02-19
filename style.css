@@ -59,6 +59,7 @@ nav a:hover {
 }
 
 .card img {
-  width: 100%;
-  border-radius: 8px;
+  width: 200px;        /* ya jo size chaho */
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
 }
