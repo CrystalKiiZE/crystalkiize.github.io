@@ -13,6 +13,13 @@ header {
   align-items: center;
 }
 
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #000;
+  margin-top: 40px;
+}
+
 nav a {
   color: white;
   margin-left: 15px;
