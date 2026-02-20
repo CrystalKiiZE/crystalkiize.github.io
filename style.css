@@ -77,6 +77,27 @@ nav a:hover {
   background: #00ccaa;
 }
 
+.announcement {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 30px;
+  background: #111;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0, 255, 200, 0.15);
+}
+
+.announcement h3 {
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+
+.announcement p {
+  font-size: 16px;
+  line-height: 1.6;
+  opacity: 0.85;
+}
+
 .content {
   max-width: 800px;
   margin: 80px auto;
