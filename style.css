@@ -13,11 +13,25 @@ header {
   align-items: center;
 }
 
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: Arial;
+}
+
 footer {
+  margin-top: auto;
   text-align: center;
   padding: 20px;
   background: #000;
-  margin-top: 40px;
 }
 
 nav a {
@@ -32,7 +46,16 @@ nav a:hover {
 
 .hero {
   text-align: center;
-  padding: 80px 20px;
+  padding: 100px 20px;
+}
+
+.hero h2 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  opacity: 0.8;
 }
 
 .home-links {
