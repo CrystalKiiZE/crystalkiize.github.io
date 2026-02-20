@@ -119,12 +119,9 @@ nav a:hover {
 }
 
 .about-logo {
-  width: 180px;
+  width: 220px;
+  height: auto;
   margin-bottom: 20px;
-}
-
-.logo {
-  filter: drop-shadow(0 0 8px rgba(0, 255, 200, 0.5));
 }
 
 .card {
