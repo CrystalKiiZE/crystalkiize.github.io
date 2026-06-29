@@ -8,7 +8,7 @@ An Organization with Nothing to do.
 
 ## Projects
 
-- The Something Mod
+- No Projects Right Now
 
 ## Team
 
